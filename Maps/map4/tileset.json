@@ -1,0 +1,35 @@
+{
+	"tiles":[
+		{
+			"id":1,
+			"flashClass":"GrassTile"
+		},
+		{
+			"id":2,
+			"flashClass":"WallTile"
+		},
+		{
+			"id":7,
+			"flashClass":"GrassNonBuildableTile"
+		}
+	],
+	
+	"spawns":[
+		{
+			"id":3,
+			"object":"player"
+		},
+		{
+			"id":4,
+			"object":"base resource spawn"
+		},
+		{
+			"id":5,
+			"object":"tech resource spawn"
+		},
+		{
+			"id":6,
+			"object":"progress resource spawn"
+		}
+	]
+}
